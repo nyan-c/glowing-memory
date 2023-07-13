@@ -1,0 +1,14 @@
+header {
+  height: 120px;
+  background-color: chocolate;
+  color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 700;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
